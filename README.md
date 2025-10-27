@@ -1,4 +1,18 @@
 # 🤖 Smart AI Model Builder - Automated Model Creation System
+## 📸 Screenshots
+
+### 🖼️ Main Interface ( Dark )
+![Main Interface](img/Screenshot%202025-10-28%20021301.png)
+
+### 🖼️ Main Interface ( Light )
+![Model Selection](img/Screenshot%202025-10-28%20021330.png)
+
+### ⚙️ Feature Setup
+![Feature Setup](img/Screenshot%202025-10-28%20021356.png)
+
+### 🚀 Final Output
+![Final Output](img/Screenshot%202025-10-28%20021416.png)
+
 
 ## 🌟 Overview
 
@@ -317,4 +331,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <p align="center">
   <strong>Ready to revolutionize AI model creation? 🚀</strong>
+
 </p>
