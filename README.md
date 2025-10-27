@@ -7,10 +7,10 @@
 ### 🖼️ Main Interface ( Light )
 ![Model Selection](img/Screenshot%202025-10-28%20021330.png)
 
-### ⚙️ Feature Setup
+### ⚙️ Setup ( Dark )
 ![Feature Setup](img/Screenshot%202025-10-28%20021356.png)
 
-### 🚀 Final Output
+### ⚙️ Setup ( Light )
 ![Final Output](img/Screenshot%202025-10-28%20021416.png)
 
 
@@ -333,3 +333,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <strong>Ready to revolutionize AI model creation? 🚀</strong>
 
 </p>
+
